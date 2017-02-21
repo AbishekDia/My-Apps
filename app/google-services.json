@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "148516163479",
+    "firebase_url": "https://parsel-158707.firebaseio.com",
+    "project_id": "parsel-158707",
+    "storage_bucket": "parsel-158707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148516163479:android:5c10c4d7df065ef9",
+        "android_client_info": {
+          "package_name": "com.dia.hereyourlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148516163479-alj6vb4lq38rnlu7e8sroas4vna583tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dia.hereyourlocation",
+            "certificate_hash": "B3E5A14C6641B81225DBB2F8AAD3A9498B2A5A4F"
+          }
+        },
+        {
+          "client_id": "148516163479-be7at52t3pmcnqev4er8cp9k9sl26n9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL79QvV30tr0ByrSH7TsTIKJNT54M1J1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148516163479-be7at52t3pmcnqev4er8cp9k9sl26n9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
