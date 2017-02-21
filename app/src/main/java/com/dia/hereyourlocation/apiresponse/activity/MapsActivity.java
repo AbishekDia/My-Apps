@@ -331,9 +331,6 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
             super.onPostExecute(address);
 
             LatLng mapCenter = new LatLng(location.getLatitude(), location.getLongitude());
-
-            //LatLng mapCenter = ((ParselApplication) getApplicationContext()).getMapCenter();
-
             updateLocation(mapCenter, address);
             isTaskFinished = true;
         }

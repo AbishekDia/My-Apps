@@ -45,7 +45,6 @@ public class SplashScreenActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
-        //checkAppPermissions(getAppPermisssionsMap());
     }
 
     private void init(boolean isLoggedIn) {
